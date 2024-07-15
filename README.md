@@ -1,0 +1,1 @@
+# Loki-password-manager-extension
